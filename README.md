@@ -3,6 +3,8 @@
 SmartBlog is a **full-stack blogging platform** where users can create, manage, and comment on blogs — enhanced with **AI-powered blog generation** using the Gemini API. It features an **admin panel** for managing blogs, comments, and statistics, and uses secure **JWT authentication** for login.
 
 ---
+## 🌐 Live Demo
+[Visit WanderStay](https://smart-blog-theta.vercel.app/)
 
 ## 🚀 Features
 
@@ -44,5 +46,9 @@ SmartBlog is a **full-stack blogging platform** where users can create, manage, 
 
 ---
 
-## 📂 Project Structure
+## Contact
+For any queries or suggestions, feel free to reach out:
+- **Name**: Vedant Nikam
+- **Email**: [nikam.vedant05@gmail.com]
+- **GitHub**: [https://github.com/Vednik123](https://github.com/Vednik123)
 
