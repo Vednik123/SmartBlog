@@ -4,7 +4,7 @@ SmartBlog is a **full-stack blogging platform** where users can create, manage, 
 
 ---
 ## 🌐 Live Demo
-[Visit WanderStay](https://smart-blog-theta.vercel.app/)
+[Visit SmartBlog](https://smart-blog-theta.vercel.app/)
 
 ## 🚀 Features
 
